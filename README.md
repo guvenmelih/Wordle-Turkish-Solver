@@ -1,5 +1,5 @@
 # Wordle-Turkish-Solver
-A solver for the game in the following link https://f.github.io/wordle-tr/
+A solver for the game in the following link https://wordleturkce.bundle.app/
 
 the function solver have 3 arguments, 
 
